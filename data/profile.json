@@ -32,7 +32,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       
-    ],
+    ]
+    
     "softSkills": [
       "Empatia",
       "Liderança",
@@ -43,7 +44,8 @@
   },
   "languages": [
     "Português BR",
-  ],
+  ]
+  
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
@@ -55,7 +57,8 @@
       "url": "https://github.com/wallaskoelho/DIO-js-developer-portfolio",
       "github": true
     }
-  ],
+  ]
+  
   "professionalExperience": [
     {
       "name": "dev Front-End / Freelancer",
