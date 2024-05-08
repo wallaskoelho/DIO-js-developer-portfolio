@@ -5,8 +5,8 @@
   "location": "Marabá - PA",
   "phone": "(94) 98434-5012",
   "email": "wallasgcoelhon@gmail.com",
-  "skills": {
-    "hardSkills": [
+  
+"hardSkills": [
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -30,8 +30,8 @@
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-     ],    
+      }
+     ],
     "softSkills": [
       "Empatia",
       "Liderança",
@@ -40,8 +40,8 @@
       "Organização"
     ],
   "languages": [
-    "Português BR",
-  ]
+    "Português BR"
+  ],
   
   "portfolio": [
     {
@@ -60,6 +60,6 @@
       "name": "dev Front-End / Freelancer",
       "period": "2024 - até o momento",
       "description": "Ser Freelancer nos obriga a desenvolver muito mais habilidades do que as de programar, mas de gerir todo um projeto, desde a prospecção de um cliente, até a entrega e manutenção."
-    },
+    }
   ]
 }
