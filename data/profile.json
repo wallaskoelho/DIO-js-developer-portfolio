@@ -5,8 +5,7 @@
   "location": "Marabá - PA",
   "phone": "(94) 98434-5012",
   "email": "wallasgcoelhon@gmail.com",
-  "skills": "",
-  
+  "skills":{  
 "hardSkills": [
       {
         "name": "HTML",
@@ -39,7 +38,9 @@
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
-    ],
+    ]
+  },
+  
   "languages": [
     "Português BR"
   ],
